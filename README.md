@@ -1,1 +1,1 @@
-# stable_diffusion_diffusers_for_swe
+# **Stable Diffusion with 🧨 diffusers for Software Engineers**
