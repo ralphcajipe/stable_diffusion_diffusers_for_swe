@@ -1,1 +1,1 @@
-# stable_diffusion_with_diffusers_for_software_engineers
+# stable_diffusion_diffusers_for_swe
