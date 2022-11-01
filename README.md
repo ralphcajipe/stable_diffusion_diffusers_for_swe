@@ -1,1 +1,1 @@
-# **Stable Diffusion with 🧨 diffusers for Software Engineers**
+# **Stable Diffusion with 🧨 Diffusers for Software Engineers**
